@@ -186,7 +186,7 @@ Windows에서는 `최종본/run.bat`을 실행해도 됩니다.
 ## 발표 및 시연 영상
 
 - [발표 영상](https://youtu.be/UxyeQ9u-Tt8)
-- [시연 영상](./demo.mp4)
+- [시연 영상](./demo_final.mp4)
 
 ---
 
